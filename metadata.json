@@ -1,0 +1,5 @@
+{
+  "name": "RankMaster",
+  "description": "A modern, drag-and-drop tier list maker for comparing items within a niche. Features editable tiers, image support, and a screenshot-friendly layout.",
+  "requestFramePermissions": []
+}
